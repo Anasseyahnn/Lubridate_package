@@ -128,7 +128,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 👤 Auteur
 
-- Anassé Yahanan - [Mon Portfolio](https://anasseyahnn.github.io/Anasseyahnn-wbs/) - [LinkedIn](https://www.linkedin.com/in/anasse-yahanan-bouagba-3b39aa242/)
+- Anassé Yahanan - [Acceder au projet](https://anasseyahnn.github.io/Anasseyahnn-wbs/) - [LinkedIn](https://www.linkedin.com/in/anasse-yahanan-bouagba-3b39aa242/)
 
 ---
 
